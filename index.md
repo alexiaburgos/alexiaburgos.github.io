@@ -3,8 +3,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 <body>
+  <head>
+  <link rel="stylesheet" href="styles.css">
+</head>
 
-<div class="header">
+<div class="h1">
   <h1>How to Bartend</h1>
   <p>Be the best Bartender ever ! :)</p>
 </div>
