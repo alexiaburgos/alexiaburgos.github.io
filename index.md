@@ -6,7 +6,7 @@
 
 <div class="header">
   <h1>How to Bartend</h1>
-  <p>BE the best Bartender ever ! :)</p>
+  <p>Be the best Bartender ever ! :)</p>
 </div>
 <!-- Slide Show -->
 <section>
