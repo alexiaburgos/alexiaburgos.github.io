@@ -12,6 +12,7 @@
   <img class="mySlides" src="	Bobrow_Bartending.jpg" style="width:100%">
                                                                
 </section>
+<script>
 var myIndex = 0;
 carousel();
 
@@ -26,6 +27,7 @@ function carousel() {
   x[myIndex-1].style.display = "block";
   setTimeout(carousel, 3000);
 }
+</script>
 
 </body>
 </html>
