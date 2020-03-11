@@ -1,9 +1,13 @@
 <html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<head>
-  <link rel="stylesheet" type="text/css" href="style1.css">
-</head>
+<style>
+body {background-color: dimgrey;}
+h1   {color: white;
+  text-align: center;}
+p    {color: white;
+  text-align: center;}
+</style>
 
 <div class="h1">
   <h1>How to Bartend</h1>
