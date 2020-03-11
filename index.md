@@ -8,7 +8,7 @@ h1   {color: white;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
 p    {color: white;
   text-align: center;
-  "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
 </style>
 
 <div class="h1">
