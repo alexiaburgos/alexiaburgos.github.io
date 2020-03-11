@@ -5,7 +5,7 @@
 body {background-color: dimgrey;}
 h1   {color: white;
   text-align: center;
-  font-family: "Courier New", Courier, monospace}
+  font-family: "Courier New", Courier, monospace;}
 p    {color: white;
   text-align: center;}
 </style>
