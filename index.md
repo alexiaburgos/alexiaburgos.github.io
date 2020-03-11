@@ -4,7 +4,8 @@
 <style>
 body {background-color: dimgrey;}
 h1   {color: white;
-  text-align: center;}
+  text-align: center;
+  font: CourierNew}
 p    {color: white;
   text-align: center;}
 </style>
