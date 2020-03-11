@@ -1,9 +1,11 @@
 body {
-  background-color: powderblue;
+  background-color: darkgray;
 }
 h1 {
-  color: blue;
+  color: white;
+  text-align: center;
+  border: 3px solid green;
 }
 p {
-  color: red;
+  color: white;
 }
