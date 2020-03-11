@@ -5,7 +5,7 @@
 body {background-color: dimgrey;}
 h1   {color: white;
   text-align: center;
-  font-family: Impact, Charcoal, sans-serif;}
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
 p    {color: white;
   text-align: center;}
 </style>
