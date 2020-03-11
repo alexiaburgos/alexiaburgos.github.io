@@ -12,6 +12,7 @@
   <img class="mySlides" src="	Bobrow_Bartending.jpg" style="width:100%">
                                                                
 </section>
+
 <script>
 var myIndex = 0;
 carousel();
