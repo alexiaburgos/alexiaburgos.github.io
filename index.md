@@ -4,7 +4,10 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 <body>
 
-<p> HELLLOOOOO </p>
+<div class="header">
+  <h1>How to Bartend</h1>
+  <p>BE the best Bartender ever ! :)</p>
+</div>
 <!-- Slide Show -->
 <section>
   <img class="mySlides" src="	c700x420.jpg" style="width:100%">
