@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 <body>
   <head>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="style1.css">
 </head>
 
 <div class="h1">
