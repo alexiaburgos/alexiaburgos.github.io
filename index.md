@@ -9,7 +9,7 @@
 <section>
   <img class="mySlides" src="	c700x420.jpg" style="width:100%">
   <img class="mySlides" src="c700x420.jpg-2" style="width:100%">
-  <img class="mySlides" src="	Bobrow_Bartending.jpg" style="width:100%>
+  <img class="mySlides" src="	Bobrow_Bartending.jpg" style="width:100%">
                                                                
 </section>
 
