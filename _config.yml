@@ -1,11 +1,1 @@
-body {
-  background-color: DimGrey;
-}
-h1 {
-  color: white;
-  text-align: center;
-  border: 3px solid green;
-}
-p {
-  color: white;
-}
+
