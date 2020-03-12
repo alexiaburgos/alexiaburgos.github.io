@@ -17,7 +17,7 @@ p    {color: white;
 </div>
 
 <button type="button" onclick="alert('Hello world!')">Click Me!</button>
- 
+<style> <button class="button">Black</button> </style>
   
 <!-- Slide Show -->
 <section>
