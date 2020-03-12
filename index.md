@@ -15,10 +15,10 @@ p    {color: white;
   <h1>How to Bartend</h1>
   <p>Be the best Bartender ever ! :)</p>
 </div>
-<button type="button">Click Me!</button>
-<style>
-  <button class="w3-button w3-round-xxlarge">and Rounder</button>
-  </style>
+
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+ 
+  
 <!-- Slide Show -->
 <section>
   <img class="mySlides" src="	c700x420.jpg" style="width:100%">
