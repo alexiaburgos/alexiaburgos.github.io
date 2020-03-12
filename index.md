@@ -1,14 +1,24 @@
 <html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<head>
-  <link rel="stylesheet" type="text/css" href="style1.css">
-</head>
+<style>
+body {background-color: dimgrey;}
+h1   {color: white;
+  text-align: center;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+p    {color: white;
+  text-align: center;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+</style>
 
 <div class="h1">
   <h1>How to Bartend</h1>
   <p>Be the best Bartender ever ! :)</p>
 </div>
+<button type="button">Click Me!</button>
+<style>
+  <button class="w3-button w3-round-xxlarge">and Rounder</button>
+  </style>
 <!-- Slide Show -->
 <section>
   <img class="mySlides" src="	c700x420.jpg" style="width:100%">
@@ -34,5 +44,5 @@ function carousel() {
 }
 </script>
 
-</body>
+
 </html>
