@@ -16,7 +16,8 @@ p    {color: white;
   <p>Be the best Bartender ever ! :)</p>
 </div>
 
-<button type="button">Click Me!</button>
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+ 
   
 <!-- Slide Show -->
 <section>
